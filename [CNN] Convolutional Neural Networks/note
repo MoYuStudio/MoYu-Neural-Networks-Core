@@ -1,0 +1,9 @@
+
+PyTorch学习（五）——卷积神经网络
+https://blog.csdn.net/qq_37414405/article/details/117842066
+
+卷积神经网络（PyTorch） 卷积在pytorch中有两种方式，一种是torch.nn.Conv2d()，一种是torch.nn.functional.conv2d()。
+https://blog.csdn.net/qq_43211132/article/details/104476458
+
+pytorch实现：卷积神经网络识别FashionMNIST
+https://blog.csdn.net/qq_40216188/article/details/116332199
